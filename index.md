@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Bharani
 
 ## 🚀 About Me
 I am a web developer fresher passionate about building websites and learning cloud technologies.
